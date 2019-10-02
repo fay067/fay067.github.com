@@ -26,7 +26,7 @@ B.E. Computer Science, Tianjin University
 2018.Aug-Now &emsp;&emsp; Graduate Teaching Assistant, Department of Computer Science, North Carolina State University
 
 -----------------------------------------------------------------------------------------------
-### Projects(About programming)
+### Selected Projects
  
 **A game based on UE4 - Tofu Game!**
 
@@ -60,9 +60,6 @@ We wanted to study whether warm lights are preferred in virtual indoor environme
 
 ![videopic](picture/CGT511/videopic.png)  
 
-
-<img src="picture/CGT511/Result1.png" height="200" width="300" /><img src="picture/CGT511/Result2.png" height="200" width="300" /><img src="picture/CGT511/Result3.png" height="200" width="300" />
-
 **Digital on-campus information platform**
 
 *Zheng Yan(Leader), Ge Gao, Mengnan Liu, Wei Tang*
@@ -81,7 +78,7 @@ I developed a real-time rendering 3D driving game with interaction, animation, t
 
 <img src="picture/realtimegraphics/realtimedesign2.png" height="180" width="200" />&emsp;<img src="picture/realtimegraphics/realtimedesign1.png" height="180" width="200" />&emsp;<img src="picture/realtimegraphics/realtimedesign3.png" height="180" width="200" />
 
-**A C complier based on Antlr**
+**C complier based on Antlr**
 
 *Jiayuan Zhang(Leader), Ge Gao, Hongyao Huang*
 
@@ -91,21 +88,11 @@ We developed a complete C complier, including parse tree, intermediate code, int
 
 &emsp;&emsp;&emsp;<font size="2">Example</font>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<font size="2">Parse Tree</font>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<font size="2">Intermediate</font>
 
-**A student information management system**
-
-*Ge Gao*
-
 **Visualization of contour line based on MFC of VS**
 
 *Ge Gao*
 
 <img src="picture/Visualization/visproj1-1.png" height="180" width="180" />&emsp;<img src="picture/Visualization/visproj1-2.png" height="180" width="180" />&emsp;<img src="picture/Visualization/visproj1-3.jpg" height="180" width="180" />
-
-**Visualization of leaders of China and the US meeting data**
-
-*Ge Gao*
-
-<img src="picture/Visualization/visproj0.png" height="180" width="500" />
 
 **Image Edge detection**
 
@@ -124,7 +111,7 @@ I used four ways, including Prewitt, Sobel, Canny, and FDoG using MatLab.
 I realized this based on Tone Mapping algorithm.
 
 -----------------------------------------------------------------------------------------------
-### Projects(About modeling & designing)
+### Selected Projects(About modeling & designing)
 
 **Plant**(Using Maya and PhotoShop)
 
