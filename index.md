@@ -16,45 +16,17 @@ B.E. Computer Science, Tianjin University
 
 2014 Summer Session, UC,Berkeley
 
-#### Selected Courses
-
-Visualization in Sciencific Computing&emsp;&emsp;&emsp;&emsp;&emsp;90
-
-Principles of Database&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;92
-
-Computer Graphics&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 93
-
-Quantum Computing &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 96(top 1)
-
-Control Techniques of Computer&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;90(top 1)
-
-Computational Geometry&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;96(top 1)
-
-Equation of Mathematics & Physics&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 98(top 1)
-
-Game & VR Development&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; A
-
-Advanced Real-Time Computer Graphics &emsp;&emsp;&emsp;&ensp; A+
-
-Statistics Methods &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;A
-
-Interactive Multimedia Development And Research &emsp;&emsp;&emsp;&ensp; A
-
-Analysis Of Research In Industry And Technology &emsp;&emsp;&emsp;&ensp; A
-
 -----------------------------------------------------------------------------------------------
 ### Work Experience 
 
 2017.May-2017.Aug &emsp;&emsp; I worked in **[NetEase Games](http://game.163.com/en/)** as a **Senior Software Engineer Intern**. I mainly did research on super-dense tree covering in 3D large scene, animation in wind field, and keeping the balance between good visual effect and well GPU performance based on PC platform and D3D9.0 API.
 
-2017.Aug-Now &emsp;&emsp; Graduate Teaching Assistant of CGT 163 - Graphical Communication And Spatial Analysis, Department of Computer Graphics Technology, Purdue University
+2017.Aug-2018.May &emsp;&emsp; Graduate Teaching Assistant of CGT 163 - Graphical Communication And Spatial Analysis, Department of Computer Graphics Technology, Purdue University
+
+2018.Aug-Now &emsp;&emsp; Graduate Teaching Assistant, Department of Computer Science, North Carolina State University
 
 -----------------------------------------------------------------------------------------------
 ### Projects(About programming)
-
-**A research - Designing an interactive system for international parents and their kids**(plan to be submitted to CHI Student Design Competition 2018)
-
-*Ge Gao, Asefeh Kardgar, Xiaoyue Qin, Junhan Zhao*
  
 **A game based on UE4 - Tofu Game!**
 
@@ -80,7 +52,7 @@ We built an interactive flight simulator in VR environment using traditional inp
 <source src="cgt521_GG&XYH_baofeng.mp4">
 </video>
 
-**A research - Preferred Color of Light in Indoor Settings for Computer Generated Imagery**
+**Preferred Color of Light in Indoor Settings for Computer Generated Imagery**
 
 *Jessica Balfe, Ge Gao, Sri Rama Kartheek Kappagantula, Yushan Wei*
 
@@ -135,7 +107,7 @@ We developed a complete C complier, including parse tree, intermediate code, int
 
 <img src="picture/Visualization/visproj0.png" height="180" width="500" />
 
-**Image Processing - Edge detection**
+**Image Edge detection**
 
 *Ge Gao*
 
@@ -145,7 +117,7 @@ I used four ways, including Prewitt, Sobel, Canny, and FDoG using MatLab.
 
 <img src="picture/imageprocessing/fbb1.png" height="180" width="180" /><img src="picture/imageprocessing/fbb2.png" height="180" width="180" /><img src="picture/imageprocessing/fbb3.png" height="180" width="180" /><img src="picture/imageprocessing/fbb4.png" height="180" width="180" />
 
-**Image processing - Optimization of high contrasting photos**
+**Optimization of high contrasting photos**
 
 *Ge Gao*
 
@@ -184,11 +156,11 @@ I began with the visualization of movie data and analyzed the effecting factor o
 -----------------------------------------------------------------------------------------------
 ### M.S. Thesis
 
-**How People Distinguish Trees in Virtual Environment**(submitted to HCI International 2018)
+**The Effects on User Perception of Uniqueness of Three Factors as Applied to 3-Dimensional Tree Models**
 
-*Supervised by Dr. [Yingjie Chen](https://polytechnic.purdue.edu/profile/chen489), Dr. [David M Whittinghill](https://polytechnic.purdue.edu/profile/davewhit)(Department of Computer Graphics Technology, Purdue University)*
+*Supervised by Dr. [David M Whittinghill](https://polytechnic.purdue.edu/profile/davewhit), Dr. [Yingjie Chen](https://polytechnic.purdue.edu/profile/chen489) (Department of Computer Graphics Technology, Purdue University), Dr. [Qifan Song](https://www.stat.purdue.edu/people/faculty/qfsong) (Department of Statistics)*
 
-The goal of the thesis is to find out whether and to what extent people can distinguish trees with various features (relative orientation, structure, density of benches, color distribution of leaves, etc.) in virtual environment, especially real-time rendering such as game industry. During the controlled experiment, there are two research methods are used qualitatively and quantitatively. The qualitive method assesses the visually perceptual impression of interviewees on several groups of experimental materials. The quantitative method measures precise statistics on experimenting variables. The two research methods are complementary, creating a valid and comprehensive image of the experiment. 
+The gaming industry always faces the continual challenges of striking balance between real-time computing performance and graphics presentation quality. This is particularly apparent for a game with vast wild-lands scenes which demands for a large number of tree models. From the visual perception perspective, this paper investigated whether people can distinguish trees with uniqueness of various features (relative orientation, density of branches, leaf color) using the same tree model in a virtual environment. During the controlled experiment, quantitative research methods were used, which measured the statistics of tree variations. The results suggested that our methods successfully contributed a strategy in saving graphic resources without user consciousness and maintaining high graphics performance.
 
 -----------------------------------------------------------------------------------------------
 
