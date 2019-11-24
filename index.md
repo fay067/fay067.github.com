@@ -26,8 +26,38 @@ B.E. Computer Science, Tianjin University
 2018.Aug-Now &emsp;&emsp; Graduate Teaching Assistant, Department of Computer Science, North Carolina State University
 
 -----------------------------------------------------------------------------------------------
-### Selected Projects
+### Selected Research Projects
  
+**The Impact of Proactive Positive Feedback on Novices in a Block-based Programming Environment**
+
+*Samiha Marwan, Ge Gao, Thomas Price, Tiffany Barnes*
+
+Abstract: Psychological research and theories on learning show that positivefeedback during practice can increase learners’ motivation, confi-dence, and correlates with their learning. We present two novelforms of proactive positive programming feedback: pop-up mes-sages and a progress panel that shows students when they havesuccessfully completed an assignment objective. We conducted acontrolled study with 26 high school students to explore the impactof adaptive and proactive positive feedback on students performingopen-ended tasks in a block-based programming environment. Wefound that positive feedback reduces idle time for all students, and may improve self-assessment and efficacy for students with lowprior programming experience. In interviews, students note thatthe positive feedback system made them feel more focused and en-gaged, with female students particularly noting the fun aspects ofthe system and male students noting the system’s ability to detectprogress. Overall, our results suggest that positive feedback mayparticularly benefit novices with lower prior experience, but thatother forms of support are needed to improve novice programmers’performance.
+
+**ProgSnap2: A Flexible Format for Programming Process Data**
+
+*Thomas Price, David Hovemeyer, Kelly Rivers, Austin Cory Bart, Ge Gao, Ayaan M. Kazerouni, Brett Becker, Andrew Petersen, Luke Gusukuma, Stephen H. Edwards and David Babcock*
+
+Abstract: We introduce ProgSnap2, a standardized format for logging programming process data. The goal of this common format is to encourage collaboration among computing education researchers by helping them to share data, analysis code, and data-driven tools to support students. We first highlight use cases for ProgSnap2 and give an overview of the format. This includes how events, event attributes, metadata, code snapshots and external resources are represented. Finally, we present a case study to demonstrate the utility of ProgSnap2. We implemented three existing metrics designed to quantify students' difficulty with compiler errors: the Error Quotient, Repeated Error Density and Watwin score. We used a single analysis script to calculate these metrics for students from five different ProgSnap2 datasets, across a variety of contexts and programming languages. We reflect on how the common data format allowed us to more easily investigate our research questions on how these metrics varied across datasets and their comparative ability to predict students' performance. 
+
+**Lightning Talk: Curating Analyses for Programming Log Data**
+[Paper Link](https://cssplice.github.io/ICER19/proc/SPLICE_2019_ICER_paper_3.pdf)
+
+*Thomas Price, Ge Gao*
+
+Abstract: In this lightning talk, we will solicit input from the SPLICE community on an effort to collect and curate analyses for programming log data. The talk will explore what a repository of CS educational data mining (CSEDM) tools might look like. It will focus on the challenge presented by the diversity of programming log data, which can vary in granularity, which events are recorded, and programming language features. We will present an initial effort to organize analyzes according to the attributes of data that they require.
+
+**Students Performance Prediction Across-Dataset**
+
+*Ge Gao, Thomas Price*
+
+Abstract: 
+
+****
+
+-----------------------------------------------------------------------------------------------
+### Selected Acedemic Projects
+
 **A game based on UE4 - Tofu Game!**
 
 *Ge Gao, Matin Chang, Welly Chang, Prescott Ha*
