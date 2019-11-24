@@ -55,6 +55,12 @@ Abstract:
 
 ****
 
+**3M-MICE: A Cross-Sectional and Longitudinal Clinical Data Imputation Model**
+
+*Ge Gao, Preya Shabrina*
+
+Abstract: Missing data imputation is a widely discussed topic. Traditional imputation strategies such as filtering and imputing missing value by mean can introduce bias that impact modeling or be less effective. Most commonly used imputation methods do not directly accommodate longitudinal clinical data, while clinical datasets always contain time-series. There is a need to improve precision of imputation for clinical analytic approaches. Based on 3D-MICE introduced by Luo et al. and Xue's Imputation model, we designed a missing data imputation model, 3M-MICE(3-combined-model multiple imputation with chained equations), for longitudinal ICU laboratory test data. Our result shows that our 3M-MICE perform better than 3D-MICE in RMSE.
+
 -----------------------------------------------------------------------------------------------
 ### Selected Acedemic Projects
 
